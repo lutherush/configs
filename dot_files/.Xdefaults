@@ -1,0 +1,84 @@
+Xcursor.theme: ATER    ! Extract cursor theme to /usr/share/icons/(theme) and viola, you can set it here :)
+
+! stjerm is a somewhat quake style terminal emulator. Available from the AUR.
+stjerm.key: f12    ! Binds a key to hide/show
+stjerm.font: ProggyCleanTT 10    ! font & size
+stjerm.height: 350
+stjerm.width: 650
+stjerm.opacity: 70    ! Hooray for pseudo transparency! (real with composite)
+stjerm.position: left
+stjerm.autohide: false    ! Doesn't hide when focus is lost
+
+! Tango Color Scheme (My Favorite)
+stjerm*color0: #2e3436
+stjerm*color1: #cc0000
+stjerm*color2: #4e9a06
+stjerm*color3: #c4a000
+stjerm*color4: #3465a4
+stjerm*color5: #75507b
+stjerm*color6: #0b939b
+stjerm*color7: #d3d7cf
+stjerm*color8: #555753
+stjerm*color9: #ef2929
+stjerm*color10: #8ae234
+stjerm*color11: #fce94f
+stjerm*color12: #729fcf
+stjerm*color13: #ad7fa8
+stjerm*color14: #00f5e9
+stjerm*color15: #eeeeec
+
+XTerm*renderFont: true    ! Enables True-Type rendering
+XTerm*faceName: ProggyCleanTT    ! Choose the font face
+XTerm*faceSize: 10    ! Choose the font size
+
+XTerm*foreground: #ffffff
+XTerm*background: #2e2e2e    ! Dark Grey (Less contrast = Easy on the eyes)
+
+! Tango Color Scheme (Again)
+XTerm*color0: #2e3436
+XTerm*color1: #cc0000
+XTerm*color2: #4e9a06
+XTerm*color3: #c4a000
+XTerm*color4: #3465a4
+XTerm*color5: #75507b
+XTerm*color6: #0b939b
+XTerm*color7: #d3d7cf
+XTerm*color8: #555753
+XTerm*color9: #ef2929
+XTerm*color10: #8ae234
+XTerm*color11: #fce94f
+XTerm*color12: #729fcf
+XTerm*color13: #ad7fa8
+XTerm*color14: #00f5e9
+XTerm*color15: #eeeeec
+
+
+
+URxvt*background: #000000
+URxvt*foreground: #717171
+URxvt*borderLess: False
+URxvt*scrollBar: false
+!Black
+URxvt*color0: #3d3e3d
+URxvt*color8: #5a5b5c
+!Red
+URxvt*color1: #755a5b
+URxvt*color9: #a37679
+!Green
+URxvt*color2: #68755a
+URxvt*color10: #87a376
+!Yellow
+URxvt*color3: #756e5a
+URxvt*color11: #a39b76
+!Blue
+URxvt*color4: #5b6976
+URxvt*color12: #758ba3
+!Magenta
+URxvt*color5: #755b76
+URxvt*color13: #9f76a3
+!Cyan
+URxvt*color6: #5b7674
+URxvt*color14: #75a3a1
+!White
+URxvt*color7: #808080
+URxvt*color15: #aeafb0

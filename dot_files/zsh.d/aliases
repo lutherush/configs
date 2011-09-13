@@ -1,0 +1,30 @@
+
+alias s='sudo'
+alias cd..='cd ..'
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ~='cd ~'
+alias ls='ls -a'
+alias ll='ls -l'
+alias cls='clear'
+alias h='history'
+alias rm='rm -r'
+alias rmf='rm -rf'
+alias cp='cp -r'
+alias cpp='rsync -PrlpE'
+alias cpz='rsync -PelpEz'
+alias mk='mkdir -p'
+alias mkdir='mkdir -p'
+alias mplayer='mplayer -msgcolor'
+alias tree='tree -C'
+alias kill='sudo poweroff'
+alias respawn='sudo reboot'
+alias suspend='sudo sh ~/suspend'
+
+# Mounting
+alias mount='devmon --mount-all'
+alias unmount='devmon --unmount-al'
+
+#Funny
+alias picture='mplayer tv:// -tv driver=v4l2:width=640:height=480:device=/dev/video0 -fps 15 -vf screenshot'
+alias deskvideo='ffmpeg -f x11grab -s wxga -r 25 -i :0.0 -sameq /tmp/out.mpg'
