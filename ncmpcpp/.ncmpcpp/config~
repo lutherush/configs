@@ -1,0 +1,106 @@
+####################################################
+## this is example configuration file, copy it to ##
+## ~/.ncmpcpp/config and set up your preferences ##
+####################################################
+#
+##### connection settings #####
+#
+## set it in order to make tag editor and renaming files work properly
+#
+#mpd_host = "localhost"
+#
+#mpd_port = "6600"
+#
+mpd_music_dir = "/home/lutherus/Music"
+#
+#mpd_connection_timeout = "5"
+#
+#mpd_crossfade_time = "5"
+#
+#mpd_communication_mode = "polling" (polling/notifications)
+#
+##### music visualizer #####
+##
+## Note: In order to make music visualizer work you'll
+## need to use mpd fifo output, whose format parameter
+## has to be set to 44100:16:1. Example configuration:
+## (it has to be put into mpd.conf)
+##
+audio_output {
+type "fifo"
+name "My FIFO"
+path "/tmp/mpd.fifo"
+format "44100:16:1"
+}
+##
+#
+visualizer_fifo_path = "/tmp/mpd.fifo"
+#
+##
+## Note: Below parameter is needed for ncmpcpp
+## to determine which output provides data for
+## visualizer and thus allow syncing between
+## visualization and sound as currently there
+## are some problems with it.
+##
+#
+visualizer_output_name = "my_fifo"
+#
+##
+## Note: To enable spectrum frequency visualization
+## you need to compile ncmpcpp with fftw3 support.
+##
+#
+visualizer_type = "wave" (spectrum/wave)
+#
+##### delays #####
+
+playlist_disable_highlight_delay = "5"
+
+##### song format #####
+
+song_status_format = "%a \"%b\" - {%t}|{%f}"
+song_library_format = "{%n - }{%t}|{%f}"
+now_playing_prefix = "$r$b"
+now_playing_suffix = "$/b$/r"
+song_columns_list_format = "(7f)[white]{l} (25)[white]{a} (40)[]{b} (30)[white]{t}"
+
+##### various settings #####
+
+execute_on_song_change = ""
+playlist_shorten_total_times = "yes"
+playlist_display_mode = "columns" (classic/columns)
+browser_display_mode = "columns" (classic/columns)
+discard_colors_if_item_is_selected = "yes"
+incremental_seeking = "yes"
+seek_time = "1"
+autocenter_mode = "no"
+centered_cursor = "yes"
+progressbar_look = "=>"
+media_library_left_column = "a" (possible values: a,y,g,c,p, legend above)
+default_find_mode = "wrapped" (wrapped/normal)
+default_space_mode = "add" (add/select)
+default_tag_editor_left_col = "albums" (albums/dirs)
+default_tag_editor_pattern = "%n - %t"
+header_visibility = "yes"
+statusbar_visibility = "yes"
+titles_visibility = "yes"
+header_text_scrolling = "yes"
+fancy_scrolling = "yes"
+cyclic_scrolling = "yes"
+lines_scrolled = "2"
+startup_screen = "2"
+jump_to_now_playing_song_at_start = "yes"
+ask_before_clearing_main_playlist = "no"
+ignore_leading_the = "yes"
+mouse_support = "no"
+mouse_list_scroll_whole_page = "yes"
+
+##### colors definitions #####
+
+colors_enabled = "yes"
+empty_tag_color = "cyan"
+main_window_color = "white"
+main_window_highlight_color = "white"
+progressbar_color = "magenta"
+active_column_color = "green"
