@@ -1,0 +1,1961 @@
+info_begin
+format: 1
+mpd_version: 0.16.4
+fs_charset: UTF-8
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: Composer
+tag: Performer
+tag: Disc
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+info_end
+directory: Amorphis
+mtime: 1315809478
+begin: Amorphis
+directory: (1991) Privilege of Evil [flac]
+mtime: 1315809005
+begin: Amorphis/(1991) Privilege of Evil [flac]
+song_begin: Amorphis - 01 - Pilgrimage from Darkness.flac
+Time: 271
+Title: Pilgrimage from Darkness
+Artist: Amorphis
+Album: Privilege of Evil
+Date: 1991
+Track: 01
+Genre: Doom Metal
+mtime: 1315808974
+song_end
+song_begin: Amorphis - 02 - Black Embrace.flac
+Time: 204
+Title: Black Embrace
+Artist: Amorphis
+Album: Privilege of Evil
+Date: 1991
+Track: 02
+Genre: Doom Metal
+mtime: 1315808980
+song_end
+song_begin: Amorphis - 03 - Privilege of Evil.flac
+Time: 229
+Title: Privilege of Evil
+Artist: Amorphis
+Album: Privilege of Evil
+Date: 1991
+Track: 03
+Genre: Doom Metal
+mtime: 1315808986
+song_end
+song_begin: Amorphis - 04 - Misery Path.flac
+Time: 256
+Title: Misery Path
+Artist: Amorphis
+Album: Privilege of Evil
+Date: 1991
+Track: 04
+Genre: Doom Metal
+mtime: 1315808994
+song_end
+song_begin: Amorphis - 05 - Vulgar Necrolatry.flac
+Time: 237
+Title: Vulgar Necrolatry
+Artist: Amorphis
+Album: Privilege of Evil
+Date: 1991
+Track: 05
+Genre: Doom Metal
+mtime: 1315809000
+song_end
+song_begin: Amorphis - 06 - Excursing from Existence.flac
+Time: 187
+Title: Excursing from Existence
+Artist: Amorphis
+Album: Privilege of Evil
+Date: 1991
+Track: 06
+Genre: Doom Metal
+mtime: 1315809005
+song_end
+playlist_begin: Amorphis - Privilege of Evil.m3u
+mtime: 1315809005
+playlist_end
+end: Amorphis/(1991) Privilege of Evil [flac]
+directory: (1993) The Karelian Isthmus [flac]
+mtime: 1315809066
+begin: Amorphis/(1993) The Karelian Isthmus [flac]
+song_begin: Amorphis - 01 - Karelia.flac
+Time: 43
+Title: Karelia
+Artist: Amorphis
+Album: The Karelian Isthmus
+Date: 1992
+Track: 01
+Genre: Doom Metal
+mtime: 1315809006
+song_end
+song_begin: Amorphis - 02 - The Gathering.flac
+Time: 253
+Title: The Gathering
+Artist: Amorphis
+Album: The Karelian Isthmus
+Date: 2003
+Track: 02
+Genre: Doom Metal
+mtime: 1315809013
+song_end
+song_begin: Amorphis - 03 - Grail's Mysteries.flac
+Time: 183
+Title: Grail's Mysteries
+Artist: Amorphis
+Album: The Karelian Isthmus
+Date: 2003
+Track: 03
+Genre: Doom Metal
+mtime: 1315809017
+song_end
+song_begin: Amorphis - 04 - Warriors Trial.flac
+Time: 305
+Title: Warriors Trial
+Artist: Amorphis
+Album: The Karelian Isthmus
+Date: 2003
+Track: 04
+Genre: Doom Metal
+mtime: 1315809024
+song_end
+song_begin: Amorphis - 05 - Black Embrace.flac
+Time: 219
+Title: Black Embrace
+Artist: Amorphis
+Album: The Karelian Isthmus
+Date: 2003
+Track: 05
+Genre: Doom Metal
+mtime: 1315809029
+song_end
+song_begin: Amorphis - 06 - The Exile of the Sons of Uisliu.flac
+Time: 224
+Title: The Exile of the Sons of Uisliu
+Artist: Amorphis
+Album: The Karelian Isthmus
+Date: 2003
+Track: 06
+Genre: Doom Metal
+mtime: 1315809034
+song_end
+song_begin: Amorphis - 07 - The Lost Name of God.flac
+Time: 333
+Title: The Lost Name of God
+Artist: Amorphis
+Album: The Karelian Isthmus
+Date: 2003
+Track: 07
+Genre: Doom Metal
+mtime: 1315809042
+song_end
+song_begin: Amorphis - 08 - The Pilgrimage.flac
+Time: 280
+Title: The Pilgrimage
+Artist: Amorphis
+Album: The Karelian Isthmus
+Date: 2003
+Track: 08
+Genre: Doom Metal
+mtime: 1315809048
+song_end
+song_begin: Amorphis - 09 - Misery Path.flac
+Time: 258
+Title: Misery Path
+Artist: Amorphis
+Album: The Karelian Isthmus
+Date: 2003
+Track: 09
+Genre: Doom Metal
+mtime: 1315809053
+song_end
+song_begin: Amorphis - 10 - The Sign From the North Side.flac
+Time: 295
+Title: The Sign From the North Side
+Artist: Amorphis
+Album: The Karelian Isthmus
+Date: 2003
+Track: 10
+Genre: Doom Metal
+mtime: 1315809060
+song_end
+song_begin: Amorphis - 11 - Vulgar Necrolatry.flac
+Time: 262
+Title: Vulgar Necrolatry
+Artist: Amorphis
+Album: The Karelian Isthmus
+Date: 2003
+Track: 11
+Genre: Doom Metal
+mtime: 1315809065
+song_end
+playlist_begin: Amorphis - The Karelian Isthmus.m3u
+mtime: 1315809066
+playlist_end
+end: Amorphis/(1993) The Karelian Isthmus [flac]
+directory: (1994) Tales From The Thousand Lakes [flac]
+mtime: 1315809112
+begin: Amorphis/(1994) Tales From The Thousand Lakes [flac]
+song_begin: Amorphis - 01 - Thousand Lakes.flac
+Time: 124
+Artist: Amorphis
+Title: Thousand Lakes
+Album: Tales From The Thousand Lakes
+Track: 1
+Genre: Doom Metal
+Date: 1994
+mtime: 1315809068
+song_end
+song_begin: Amorphis - 02 - Into Hiding.flac
+Time: 224
+Artist: Amorphis
+Title: Into Hiding
+Album: Tales From The Thousand Lakes
+Track: 2
+Genre: Doom Metal
+Date: 1994
+mtime: 1315809073
+song_end
+song_begin: Amorphis - 03 - The Castaway.flac
+Time: 330
+Artist: Amorphis
+Title: The Castaway
+Album: Tales From The Thousand Lakes
+Track: 3
+Genre: Doom Metal
+Date: 1994
+mtime: 1315809079
+song_end
+song_begin: Amorphis - 04 - First Doom.flac
+Time: 229
+Artist: Amorphis
+Title: First Doom
+Album: Tales From The Thousand Lakes
+Track: 4
+Genre: Doom Metal
+Date: 1994
+mtime: 1315809083
+song_end
+song_begin: Amorphis - 05 - Black Winter Day.flac
+Time: 228
+Artist: Amorphis
+Title: Black Winter Day
+Album: Tales From The Thousand Lakes
+Track: 5
+Genre: Doom Metal
+Date: 1994
+mtime: 1315809088
+song_end
+song_begin: Amorphis - 06 - Drowned Maid.flac
+Time: 263
+Artist: Amorphis
+Title: Drowned Maid
+Album: Tales From The Thousand Lakes
+Track: 6
+Genre: Doom Metal
+Date: 1994
+mtime: 1315809093
+song_end
+song_begin: Amorphis - 07 - In the Beginning.flac
+Time: 215
+Artist: Amorphis
+Title: In the Beginning
+Album: Tales From The Thousand Lakes
+Track: 7
+Genre: Doom Metal
+Date: 1994
+mtime: 1315809097
+song_end
+song_begin: Amorphis - 08 - Forgotten Sunrise.flac
+Time: 291
+Artist: Amorphis
+Title: Forgotten Sunrise
+Album: Tales From The Thousand Lakes
+Track: 8
+Genre: Doom Metal
+Date: 1994
+mtime: 1315809102
+song_end
+song_begin: Amorphis - 09 - To Father's Cabin.flac
+Time: 228
+Artist: Amorphis
+Title: To Father's Cabin
+Album: Tales From The Thousand Lakes
+Track: 9
+Genre: Doom Metal
+Date: 1994
+mtime: 1315809106
+song_end
+song_begin: Amorphis - 10 - Magic and Mayhem.flac
+Time: 268
+Artist: Amorphis
+Title: Magic and Mayhem
+Album: Tales From The Thousand Lakes
+Track: 10
+Genre: Doom Metal
+Date: 1994
+mtime: 1315809111
+song_end
+playlist_begin: Amorphis - Tales From The Thousand Lakes.m3u
+mtime: 1315809112
+playlist_end
+end: Amorphis/(1994) Tales From The Thousand Lakes [flac]
+directory: (1996) Elegy [flac]
+mtime: 1315809166
+begin: Amorphis/(1996) Elegy [flac]
+song_begin: Amorphis - 01 - Better Unborn.flac
+Time: 355
+Title: Better Unborn
+Artist: Amorphis
+Album: Elegy
+Date: 1996
+Track: 01
+Genre: Progressive Doom Metal
+mtime: 1315809119
+song_end
+song_begin: Amorphis - 02 - Against Widows.flac
+Time: 247
+Title: Against Widows
+Artist: Amorphis
+Album: Elegy
+Date: 1996
+Track: 02
+Genre: Progressive Doom Metal
+mtime: 1315809123
+song_end
+song_begin: Amorphis - 03 - The Orphan.flac
+Time: 318
+Title: The Orphan
+Artist: Amorphis
+Album: Elegy
+Date: 1996
+Track: 03
+Genre: Progressive Doom Metal
+mtime: 1315809129
+song_end
+song_begin: Amorphis - 04 - On Rich and Poor.flac
+Time: 320
+Title: On Rich and Poor
+Artist: Amorphis
+Album: Elegy
+Date: 1996
+Track: 04
+Genre: Progressive Doom Metal
+mtime: 1315809135
+song_end
+song_begin: Amorphis - 05 - My Kantele.flac
+Time: 302
+Title: My Kantele
+Artist: Amorphis
+Album: Elegy
+Date: 1996
+Track: 05
+Genre: Progressive Doom Metal
+mtime: 1315809140
+song_end
+song_begin: Amorphis - 06 - Cares.flac
+Time: 270
+Title: Cares
+Artist: Amorphis
+Album: Elegy
+Date: 1996
+Track: 06
+Genre: Progressive Doom Metal
+mtime: 1315809145
+song_end
+song_begin: Amorphis - 07 - Song of the Troubled One.flac
+Time: 249
+Title: Song of the Troubled One
+Artist: Amorphis
+Album: Elegy
+Date: 1996
+Track: 07
+Genre: Progressive Doom Metal
+mtime: 1315809149
+song_end
+song_begin: Amorphis - 08 - Weeper on the Shore.flac
+Time: 293
+Title: Weeper on the Shore
+Artist: Amorphis
+Album: Elegy
+Date: 1996
+Track: 08
+Genre: Progressive Doom Metal
+mtime: 1315809155
+song_end
+song_begin: Amorphis - 09 - Elegy.flac
+Time: 442
+Title: Elegy
+Artist: Amorphis
+Album: Elegy
+Date: 1996
+Track: 09
+Genre: Progressive Doom Metal
+mtime: 1315809162
+song_end
+song_begin: Amorphis - 10 - Relief.flac
+Time: 250
+Title: Relief
+Artist: Amorphis
+Album: Elegy
+Date: 1996
+Track: 10
+Genre: Progressive Doom Metal
+mtime: 1315809166
+song_end
+playlist_begin: Amorphis - Elegy.m3u
+mtime: 1315809166
+playlist_end
+end: Amorphis/(1996) Elegy [flac]
+directory: (1997) My Kantele [flac]
+mtime: 1315809192
+begin: Amorphis/(1997) My Kantele [flac]
+song_begin: Amorphis - 01 - My Kantele (acoustic reprise).flac
+Time: 356
+Title: My Kantele (acoustic reprise)
+Artist: Amorphis
+Album: My Kantele
+Date: 1996
+Track: 01
+Genre: Progressive Doom Metal
+mtime: 1315809172
+song_end
+song_begin: Amorphis - 02 - The Brother-Slayer.flac
+Time: 219
+Title: The Brother-Slayer
+Artist: Amorphis
+Album: My Kantele
+Date: 1996
+Track: 02
+Genre: Progressive Doom Metal
+mtime: 1315809176
+song_end
+song_begin: Amorphis - 03 - The Lost Son (The Brother-Slayer, part II).flac
+Time: 275
+Title: The Lost Son (The Brother-Slayer, part II)
+Artist: Amorphis
+Album: My Kantele
+Date: 1996
+Track: 03
+Genre: Progressive Doom Metal
+mtime: 1315809181
+song_end
+song_begin: Amorphis - 04 - Levitation.flac
+Time: 354
+Title: Levitation
+Artist: Amorphis
+Album: My Kantele
+Date: 1996
+Track: 04
+Genre: Progressive Doom Metal
+mtime: 1315809187
+song_end
+song_begin: Amorphis - 05 - And I Hear You Call.flac
+Time: 281
+Title: And I Hear You Call
+Artist: Amorphis
+Album: My Kantele
+Date: 1996
+Track: 05
+Genre: Progressive Doom Metal
+mtime: 1315809192
+song_end
+playlist_begin: Amorphis - My Kantele.m3u
+mtime: 1315809192
+playlist_end
+end: Amorphis/(1997) My Kantele [flac]
+directory: (1998) Tuonela [flac]
+mtime: 1315809236
+begin: Amorphis/(1998) Tuonela [flac]
+song_begin: Amorphis - 01 - The Way.flac
+Time: 276
+Title: The Way
+Artist: Amorphis
+Album: Tuonela
+Date: 1998
+Track: 01
+Genre: Progressive Metal
+mtime: 1315809196
+song_end
+song_begin: Amorphis - 02 - Morning Star.flac
+Time: 232
+Title: Morning Star
+Artist: Amorphis
+Album: Tuonela
+Date: 1998
+Track: 02
+Genre: Progressive Metal
+mtime: 1315809200
+song_end
+song_begin: Amorphis - 03 - Nightfall.flac
+Time: 233
+Title: Nightfall
+Artist: Amorphis
+Album: Tuonela
+Date: 1998
+Track: 03
+Genre: Progressive Metal
+mtime: 1315809204
+song_end
+song_begin: Amorphis - 04 - Tuonela.flac
+Time: 273
+Title: Tuonela
+Artist: Amorphis
+Album: Tuonela
+Date: 1998
+Track: 04
+Genre: Progressive Metal
+mtime: 1315809208
+song_end
+song_begin: Amorphis - 05 - Greed.flac
+Time: 258
+Title: Greed
+Artist: Amorphis
+Album: Tuonela
+Date: 1998
+Track: 05
+Genre: Progressive Metal
+mtime: 1315809212
+song_end
+song_begin: Amorphis - 06 - Divinity.flac
+Time: 297
+Title: Divinity
+Artist: Amorphis
+Album: Tuonela
+Date: 1998
+Track: 06
+Genre: Progressive Metal
+mtime: 1315809217
+song_end
+song_begin: Amorphis - 07 - Shining.flac
+Time: 265
+Title: Shining
+Artist: Amorphis
+Album: Tuonela
+Date: 1998
+Track: 07
+Genre: Progressive Metal
+mtime: 1315809221
+song_end
+song_begin: Amorphis - 08 - Withered.flac
+Time: 345
+Title: Withered
+Artist: Amorphis
+Album: Tuonela
+Date: 1998
+Track: 08
+Genre: Progressive Metal
+mtime: 1315809226
+song_end
+song_begin: Amorphis - 09 - Rusty Moon.flac
+Time: 297
+Title: Rusty Moon
+Artist: Amorphis
+Album: Tuonela
+Date: 1998
+Track: 09
+Genre: Progressive Metal
+mtime: 1315809231
+song_end
+song_begin: Amorphis - 10 - Summer's End.flac
+Time: 338
+Title: Summer's End
+Artist: Amorphis
+Album: Tuonela
+Date: 1998
+Track: 10
+Genre: Progressive Metal
+mtime: 1315809236
+song_end
+playlist_begin: Amorphis - Tuonela.m3u
+mtime: 1315809236
+playlist_end
+end: Amorphis/(1998) Tuonela [flac]
+directory: (2001) Am Universum [flac]
+mtime: 1315809280
+begin: Amorphis/(2001) Am Universum [flac]
+song_begin: Amorphis - 01 - Alone.flac
+Time: 378
+Title: Alone
+Artist: Amorphis
+Album: Am Universum
+Date: 2001
+Track: 01
+Genre: Progressive Metal
+mtime: 1315809242
+song_end
+song_begin: Amorphis - 02 - Goddess (Of the Sad Man).flac
+Time: 240
+Title: Goddess (Of the Sad Man)
+Artist: Amorphis
+Album: Am Universum
+Date: 2001
+Track: 02
+Genre: Progressive Metal
+mtime: 1315809245
+song_end
+song_begin: Amorphis - 03 - The Night Is Over.flac
+Time: 245
+Title: The Night Is Over
+Artist: Amorphis
+Album: Am Universum
+Date: 2001
+Track: 03
+Genre: Progressive Metal
+mtime: 1315809249
+song_end
+song_begin: Amorphis - 04 - Shatters Within.flac
+Time: 322
+Title: Shatters Within
+Artist: Amorphis
+Album: Am Universum
+Date: 2001
+Track: 04
+Genre: Progressive Metal
+mtime: 1315809254
+song_end
+song_begin: Amorphis - 05 - Crimson Wave.flac
+Time: 286
+Title: Crimson Wave
+Artist: Amorphis
+Album: Am Universum
+Date: 2001
+Track: 05
+Genre: Progressive Metal
+mtime: 1315809258
+song_end
+song_begin: Amorphis - 06 - Drifting Memories.flac
+Time: 265
+Title: Drifting Memories
+Artist: Amorphis
+Album: Am Universum
+Date: 2001
+Track: 06
+Genre: Progressive Metal
+mtime: 1315809262
+song_end
+song_begin: Amorphis - 07 - Forevermore.flac
+Time: 273
+Title: Forevermore
+Artist: Amorphis
+Album: Am Universum
+Date: 2001
+Track: 07
+Genre: Progressive Metal
+mtime: 1315809266
+song_end
+song_begin: Amorphis - 08 - Veil of Sin.flac
+Time: 311
+Title: Veil of Sin
+Artist: Amorphis
+Album: Am Universum
+Date: 2001
+Track: 08
+Genre: Progressive Metal
+mtime: 1315809270
+song_end
+song_begin: Amorphis - 09 - Captured State.flac
+Time: 269
+Title: Captured State
+Artist: Amorphis
+Album: Am Universum
+Date: 2001
+Track: 09
+Genre: Progressive Metal
+mtime: 1315809274
+song_end
+song_begin: Amorphis - 10 - Grieve Stricken Heart.flac
+Time: 403
+Title: Grieve Stricken Heart
+Artist: Amorphis
+Album: Am Universum
+Date: 2001
+Track: 10
+Genre: Progressive Metal
+mtime: 1315809280
+song_end
+playlist_begin: Amorphis - Am Universum.m3u
+mtime: 1315809280
+playlist_end
+end: Amorphis/(2001) Am Universum [flac]
+directory: (2003) Chapters [flac]
+mtime: 1315809349
+begin: Amorphis/(2003) Chapters [flac]
+song_begin: Amorphis - 01 - Alone.flac
+Time: 264
+Title: Alone
+Artist: Amorphis
+Album: Chapters
+Date: 2003
+Track: 01
+Genre: Progressive Metal
+mtime: 1315809284
+song_end
+song_begin: Amorphis - 02 - Drifting Memories.flac
+Time: 265
+Title: Drifting Memories
+Artist: Amorphis
+Album: Chapters
+Date: 2003
+Track: 02
+Genre: Progressive Metal
+mtime: 1315809288
+song_end
+song_begin: Amorphis - 03 - Too Much to See.flac
+Time: 222
+Title: Too Much to See
+Artist: Amorphis
+Album: Chapters
+Date: 2003
+Track: 03
+Genre: Progressive Metal
+mtime: 1315809291
+song_end
+song_begin: Amorphis - 04 - The Way.flac
+Time: 276
+Title: The Way
+Artist: Amorphis
+Album: Chapters
+Date: 2003
+Track: 04
+Genre: Progressive Metal
+mtime: 1315809295
+song_end
+song_begin: Amorphis - 05 - Northern Lights.flac
+Time: 198
+Title: Northern Lights
+Artist: Amorphis
+Album: Chapters
+Date: 2003
+Track: 05
+Genre: Progressive Metal
+mtime: 1315809298
+song_end
+song_begin: Amorphis - 06 - Summer's End.flac
+Time: 338
+Title: Summer's End
+Artist: Amorphis
+Album: Chapters
+Date: 2003
+Track: 06
+Genre: Progressive Metal
+mtime: 1315809303
+song_end
+song_begin: Amorphis - 07 - The Brother-Slayer.flac
+Time: 218
+Title: The Brother-Slayer
+Artist: Amorphis
+Album: Chapters
+Date: 2003
+Track: 07
+Genre: Progressive Metal
+mtime: 1315809306
+song_end
+song_begin: Amorphis - 08 - Better Unborn.flac
+Time: 353
+Title: Better Unborn
+Artist: Amorphis
+Album: Chapters
+Date: 2003
+Track: 08
+Genre: Progressive Metal
+mtime: 1315809312
+song_end
+song_begin: Amorphis - 09 - My Kantele.flac
+Time: 304
+Title: My Kantele
+Artist: Amorphis
+Album: Chapters
+Date: 2003
+Track: 09
+Genre: Progressive Metal
+mtime: 1315809316
+song_end
+song_begin: Amorphis - 10 - Weeper on the Shore.flac
+Time: 293
+Title: Weeper on the Shore
+Artist: Amorphis
+Album: Chapters
+Date: 2003
+Track: 10
+Genre: Progressive Metal
+mtime: 1315809320
+song_end
+song_begin: Amorphis - 11 - Moon and Sun.flac
+Time: 217
+Title: Moon and Sun
+Artist: Amorphis
+Album: Chapters
+Date: 2003
+Track: 11
+Genre: Progressive Metal
+mtime: 1315809323
+song_end
+song_begin: Amorphis - 12 - Black Winter Day.flac
+Time: 231
+Title: Black Winter Day
+Artist: Amorphis
+Album: Chapters
+Date: 2003
+Track: 12
+Genre: Progressive Metal
+mtime: 1315809327
+song_end
+song_begin: Amorphis - 13 - The Castaway.flac
+Time: 333
+Title: The Castaway
+Artist: Amorphis
+Album: Chapters
+Date: 2003
+Track: 13
+Genre: Progressive Metal
+mtime: 1315809331
+song_end
+song_begin: Amorphis - 14 - Drowned Maid.flac
+Time: 264
+Title: Drowned Maid
+Artist: Amorphis
+Album: Chapters
+Date: 2003
+Track: 14
+Genre: Progressive Metal
+mtime: 1315809335
+song_end
+song_begin: Amorphis - 15 - Warriors Trial.flac
+Time: 305
+Title: Warriors Trial
+Artist: Amorphis
+Album: Chapters
+Date: 2003
+Track: 15
+Genre: Progressive Metal
+mtime: 1315809339
+song_end
+song_begin: Amorphis - 16 - The Exile of the Sons of Uisliu.flac
+Time: 224
+Title: The Exile of the Sons of Uisliu
+Artist: Amorphis
+Album: Chapters
+Date: 2003
+Track: 16
+Genre: Progressive Metal
+mtime: 1315809343
+song_end
+song_begin: Amorphis - 17 - The Lost Name of God.flac
+Time: 333
+Title: The Lost Name of God
+Artist: Amorphis
+Album: Chapters
+Date: 2003
+Track: 17
+Genre: Progressive Metal
+mtime: 1315809347
+song_end
+playlist_begin: Amorphis - Chapters.m3u
+mtime: 1315809347
+playlist_end
+end: Amorphis/(2003) Chapters [flac]
+directory: (2003) Far From the Sun [flac]
+mtime: 1315809386
+begin: Amorphis/(2003) Far From the Sun [flac]
+song_begin: Amorphis - 01 - Day of Your Beliefs.flac
+Time: 303
+Title: Day of Your Beliefs
+Artist: Amorphis
+Album: Far From the Sun
+Date: 2003
+Track: 01
+Genre: Progressive Metal
+mtime: 1315809355
+song_end
+song_begin: Amorphis - 02 - Planetary Misfortune.flac
+Time: 268
+Title: Planetary Misfortune
+Artist: Amorphis
+Album: Far From the Sun
+Date: 2003
+Track: 02
+Genre: Progressive Metal
+mtime: 1315809359
+song_end
+song_begin: Amorphis - 03 - Evil Inside.flac
+Time: 239
+Title: Evil Inside
+Artist: Amorphis
+Album: Far From the Sun
+Date: 2003
+Track: 03
+Genre: Progressive Metal
+mtime: 1315809362
+song_end
+song_begin: Amorphis - 04 - Mourning Soil.flac
+Time: 228
+Title: Mourning Soil
+Artist: Amorphis
+Album: Far From the Sun
+Date: 2003
+Track: 04
+Genre: Progressive Metal
+mtime: 1315809365
+song_end
+song_begin: Amorphis - 05 - Far From the Sun.flac
+Time: 241
+Title: Far From the Sun
+Artist: Amorphis
+Album: Far From the Sun
+Date: 2003
+Track: 05
+Genre: Progressive Metal
+mtime: 1315809368
+song_end
+song_begin: Amorphis - 06 - Etheral Solitude.flac
+Time: 271
+Title: Etheral Solitude
+Artist: Amorphis
+Album: Far From the Sun
+Date: 2003
+Track: 06
+Genre: Progressive Metal
+mtime: 1315809371
+song_end
+song_begin: Amorphis - 07 - Killing Goodness.flac
+Time: 235
+Title: Killing Goodness
+Artist: Amorphis
+Album: Far From the Sun
+Date: 2003
+Track: 07
+Genre: Progressive Metal
+mtime: 1315809375
+song_end
+song_begin: Amorphis - 08 - God of Deception.flac
+Time: 220
+Title: God of Deception
+Artist: Amorphis
+Album: Far From the Sun
+Date: 2003
+Track: 08
+Genre: Progressive Metal
+mtime: 1315809377
+song_end
+song_begin: Amorphis - 09 - Higher Ground.flac
+Time: 338
+Title: Higher Ground
+Artist: Amorphis
+Album: Far From the Sun
+Date: 2003
+Track: 09
+Genre: Progressive Metal
+mtime: 1315809382
+song_end
+song_begin: Amorphis - 10 - Smithereens.flac
+Time: 294
+Title: Smithereens
+Artist: Amorphis
+Album: Far From the Sun
+Date: 2003
+Track: 10
+Genre: Progressive Metal
+mtime: 1315809386
+song_end
+playlist_begin: Amorphis - Far From the Sun.m3u
+mtime: 1315809386
+playlist_end
+end: Amorphis/(2003) Far From the Sun [flac]
+directory: (2007) Silent Waters [flac]
+mtime: 1315809428
+begin: Amorphis/(2007) Silent Waters [flac]
+song_begin: Amorphis - 01 - Weaving the Incantation.flac
+Time: 298
+Title: Weaving the Incantation
+Artist: Amorphis
+Album: Silent Waters
+Date: 2007
+Track: 01
+Genre: Progressive Metal
+mtime: 1315809391
+song_end
+song_begin: Amorphis - 02 - A Servant.flac
+Time: 236
+Title: A Servant
+Artist: Amorphis
+Album: Silent Waters
+Date: 2007
+Track: 02
+Genre: Progressive Metal
+mtime: 1315809394
+song_end
+song_begin: Amorphis - 03 - Silent Waters.flac
+Time: 291
+Title: Silent Waters
+Artist: Amorphis
+Album: Silent Waters
+Date: 2007
+Track: 03
+Genre: Progressive Metal
+mtime: 1315809398
+song_end
+song_begin: Amorphis - 04 - Towards and Against.flac
+Time: 300
+Title: Towards and Against
+Artist: Amorphis
+Album: Silent Waters
+Date: 2007
+Track: 04
+Genre: Progressive Metal
+mtime: 1315809401
+song_end
+song_begin: Amorphis - 05 - I of Crimson Blood.flac
+Time: 306
+Title: I of Crimson Blood
+Artist: Amorphis
+Album: Silent Waters
+Date: 2007
+Track: 05
+Genre: Progressive Metal
+mtime: 1315809405
+song_end
+song_begin: Amorphis - 06 - Her Alone.flac
+Time: 362
+Title: Her Alone
+Artist: Amorphis
+Album: Silent Waters
+Date: 2007
+Track: 06
+Genre: Progressive Metal
+mtime: 1315809410
+song_end
+song_begin: Amorphis - 07 - Enigma.flac
+Time: 215
+Title: Enigma
+Artist: Amorphis
+Album: Silent Waters
+Date: 2007
+Track: 07
+Genre: Progressive Metal
+mtime: 1315809413
+song_end
+song_begin: Amorphis - 08 - Shaman.flac
+Time: 296
+Title: Shaman
+Artist: Amorphis
+Album: Silent Waters
+Date: 2007
+Track: 08
+Genre: Progressive Metal
+mtime: 1315809416
+song_end
+song_begin: Amorphis - 09 - The White Swan.flac
+Time: 290
+Title: The White Swan
+Artist: Amorphis
+Album: Silent Waters
+Date: 2007
+Track: 09
+Genre: Progressive Metal
+mtime: 1315809420
+song_end
+song_begin: Amorphis - 10 - Black River.flac
+Time: 230
+Title: Black River
+Artist: Amorphis
+Album: Silent Waters
+Date: 2007
+Track: 10
+Genre: Progressive Metal
+mtime: 1315809424
+song_end
+song_begin: Amorphis - 11 - Sign.flac
+Time: 274
+Title: Sign
+Artist: Amorphis
+Album: Silent Waters
+Date: 2007
+Track: 11
+Genre: Progressive Metal
+mtime: 1315809427
+song_end
+playlist_begin: Amorphis - Silent Waters.m3u
+mtime: 1315809427
+playlist_end
+end: Amorphis/(2007) Silent Waters [flac]
+directory: (2009) Skyforger [flac]
+mtime: 1315809476
+begin: Amorphis/(2009) Skyforger [flac]
+song_begin: Amorphis - 01 - Sampo.flac
+Time: 369
+Title: Sampo
+Artist: Amorphis
+Album: Skyforger
+Date: 2009
+Track: 01
+Genre: Progressive Metal
+mtime: 1315809435
+song_end
+song_begin: Amorphis - 02 - Silver Bride.flac
+Time: 254
+Title: Silver Bride
+Artist: Amorphis
+Album: Skyforger
+Date: 2009
+Track: 02
+Genre: Progressive Metal
+mtime: 1315809438
+song_end
+song_begin: Amorphis - 03 - From the Heaven of My Heart.flac
+Time: 321
+Title: From the Heaven of My Heart
+Artist: Amorphis
+Album: Skyforger
+Date: 2009
+Track: 03
+Genre: Progressive Metal
+mtime: 1315809442
+song_end
+song_begin: Amorphis - 04 - Sky Is Mine.flac
+Time: 261
+Title: Sky Is Mine
+Artist: Amorphis
+Album: Skyforger
+Date: 2009
+Track: 04
+Genre: Progressive Metal
+mtime: 1315809445
+song_end
+song_begin: Amorphis - 05 - Majestic Beast.flac
+Time: 260
+Title: Majestic Beast
+Artist: Amorphis
+Album: Skyforger
+Date: 2009
+Track: 05
+Genre: Progressive Metal
+mtime: 1315809448
+song_end
+song_begin: Amorphis - 06 - My Sun.flac
+Time: 245
+Title: My Sun
+Artist: Amorphis
+Album: Skyforger
+Date: 2009
+Track: 06
+Genre: Progressive Metal
+mtime: 1315809451
+song_end
+song_begin: Amorphis - 07 - Highest Star.flac
+Time: 285
+Title: Highest Star
+Artist: Amorphis
+Album: Skyforger
+Date: 2009
+Track: 07
+Genre: Progressive Metal
+mtime: 1315809455
+song_end
+song_begin: Amorphis - 08 - Skyforger.flac
+Time: 316
+Title: Skyforger
+Artist: Amorphis
+Album: Skyforger
+Date: 2009
+Track: 08
+Genre: Progressive Metal
+mtime: 1315809458
+song_end
+song_begin: Amorphis - 09 - Course of Fate.flac
+Time: 256
+Title: Course of Fate
+Artist: Amorphis
+Album: Skyforger
+Date: 2009
+Track: 09
+Genre: Progressive Metal
+mtime: 1315809461
+song_end
+song_begin: Amorphis - 10 - From Earth I Rose.flac
+Time: 305
+Title: From Earth I Rose
+Artist: Amorphis
+Album: Skyforger
+Date: 2009
+Track: 10
+Genre: Progressive Metal
+mtime: 1315809465
+song_end
+song_begin: Amorphis - 11 - Godlike Machine.flac
+Time: 320
+Title: Godlike Machine
+Artist: Amorphis
+Album: Skyforger
+Date: 2009
+Track: 11
+Genre: Progressive Metal
+mtime: 1315809469
+song_end
+song_begin: Amorphis - 12 - Separated.flac
+Time: 259
+Title: Separated
+Artist: Amorphis
+Album: Skyforger
+Date: 2009
+Track: 12
+Genre: Progressive Metal
+mtime: 1315809472
+song_end
+playlist_begin: Amorphis - Skyforger.m3u
+mtime: 1315809472
+playlist_end
+end: Amorphis/(2009) Skyforger [flac]
+directory: (2010) Forging the Land of Thousand Lakes (live) [flac]
+mtime: 1315809545
+begin: Amorphis/(2010) Forging the Land of Thousand Lakes (live) [flac]
+directory: CD 1 [flac]
+mtime: 1315809516
+begin: Amorphis/(2010) Forging the Land of Thousand Lakes (live) [flac]/CD 1 [flac]
+song_begin: Amorphis - 01 - Silver Bride.flac
+Time: 267
+Title: Silver Bride
+Artist: Amorphis
+Album: Forging the Land of Thousand Lakes/CD 1
+Date: 2010
+Track: 01
+Genre: Progressive Metal
+Performer: Amorphis
+mtime: 1315809482
+song_end
+song_begin: Amorphis - 02 - Sampo.flac
+Time: 367
+Title: Sampo
+Artist: Amorphis
+Album: Forging the Land of Thousand Lakes/CD 1
+Date: 2010
+Track: 02
+Genre: Progressive Metal
+Performer: Amorphis
+mtime: 1315809487
+song_end
+song_begin: Amorphis - 03 - Towards and Against.flac
+Time: 322
+Title: Towards and Against
+Artist: Amorphis
+Album: Forging the Land of Thousand Lakes/CD 1
+Date: 2010
+Track: 03
+Genre: Progressive Metal
+Performer: Amorphis
+mtime: 1315809491
+song_end
+song_begin: Amorphis - 04 - The Castaway.flac
+Time: 362
+Title: The Castaway
+Artist: Amorphis
+Album: Forging the Land of Thousand Lakes/CD 1
+Date: 2010
+Track: 04
+Genre: Progressive Metal
+Performer: Amorphis
+mtime: 1315809495
+song_end
+song_begin: Amorphis - 05 - Smithereens (The Smoke).flac
+Time: 313
+Title: Smithereens (The Smoke)
+Artist: Amorphis
+Album: Forging the Land of Thousand Lakes/CD 1
+Date: 2010
+Track: 05
+Genre: Progressive Metal
+Performer: Amorphis
+mtime: 1315809499
+song_end
+song_begin: Amorphis - 06 - Majestic Beast.flac
+Time: 254
+Title: Majestic Beast
+Artist: Amorphis
+Album: Forging the Land of Thousand Lakes/CD 1
+Date: 2010
+Track: 06
+Genre: Progressive Metal
+Performer: Amorphis
+mtime: 1315809502
+song_end
+song_begin: Amorphis - 07 - Alone.flac
+Time: 364
+Title: Alone
+Artist: Amorphis
+Album: Forging the Land of Thousand Lakes/CD 1
+Date: 2010
+Track: 07
+Genre: Progressive Metal
+Performer: Amorphis
+mtime: 1315809506
+song_end
+song_begin: Amorphis - 08 - Silent Waters.flac
+Time: 308
+Title: Silent Waters
+Artist: Amorphis
+Album: Forging the Land of Thousand Lakes/CD 1
+Date: 2010
+Track: 08
+Genre: Progressive Metal
+Performer: Amorphis
+mtime: 1315809509
+song_end
+song_begin: Amorphis - 09 - Divinity.flac
+Time: 285
+Title: Divinity
+Artist: Amorphis
+Album: Forging the Land of Thousand Lakes/CD 1
+Date: 2010
+Track: 09
+Genre: Progressive Metal
+Performer: Amorphis
+mtime: 1315809516
+song_end
+playlist_begin: Amorphis - Forging the Land of Thousand Lakes, CD 1.m3u
+mtime: 1315809516
+playlist_end
+end: Amorphis/(2010) Forging the Land of Thousand Lakes (live) [flac]/CD 1 [flac]
+directory: CD 2 [flac]
+mtime: 1315809545
+begin: Amorphis/(2010) Forging the Land of Thousand Lakes (live) [flac]/CD 2 [flac]
+song_begin: Amorphis - 01 - Elegy Medley (Against Widows, Cares, On Rich and Poor).flac
+Time: 496
+Title: Elegy Medley (Against Widows, Cares, On Rich and Poor)
+Artist: Amorphis
+Album: Forging the Land of Thousand Lakes/CD 2
+Date: 2010
+Track: 01
+Genre: Progressive Metal
+Performer: Amorphis
+mtime: 1315809522
+song_end
+song_begin: Amorphis - 02 - From the Heaven of My Heart.flac
+Time: 315
+Title: From the Heaven of My Heart
+Artist: Amorphis
+Album: Forging the Land of Thousand Lakes/CD 2
+Date: 2010
+Track: 02
+Genre: Progressive Metal
+Performer: Amorphis
+mtime: 1315809525
+song_end
+song_begin: Amorphis - 03 - Sky Is Mine.flac
+Time: 274
+Title: Sky Is Mine
+Artist: Amorphis
+Album: Forging the Land of Thousand Lakes/CD 2
+Date: 2010
+Track: 03
+Genre: Progressive Metal
+Performer: Amorphis
+mtime: 1315809529
+song_end
+song_begin: Amorphis - 04 - Magic and Mayhem, Black Winter Day.flac
+Time: 384
+Title: Magic and Mayhem, Black Winter Day
+Artist: Amorphis
+Album: Forging the Land of Thousand Lakes/CD 2
+Date: 2010
+Track: 04
+Genre: Progressive Metal
+Performer: Amorphis
+mtime: 1315809533
+song_end
+song_begin: Amorphis - 05 - Sign from the North Side.flac
+Time: 374
+Title: Sign from the North Side
+Artist: Amorphis
+Album: Forging the Land of Thousand Lakes/CD 2
+Date: 2010
+Track: 05
+Genre: Progressive Metal
+Performer: Amorphis
+mtime: 1315809537
+song_end
+song_begin: Amorphis - 06 - House of Sleep.flac
+Time: 309
+Title: House of Sleep
+Artist: Amorphis
+Album: Forging the Land of Thousand Lakes/CD 2
+Date: 2010
+Track: 06
+Genre: Progressive Metal
+Performer: Amorphis
+mtime: 1315809541
+song_end
+song_begin: Amorphis - 07 - My Kantele.flac
+Time: 421
+Title: My Kantele
+Artist: Amorphis
+Album: Forging the Land of Thousand Lakes/CD 2
+Date: 2010
+Track: 07
+Genre: Progressive Metal
+Performer: Amorphis
+mtime: 1315809545
+song_end
+playlist_begin: Amorphis - Forging the Land of Thousand Lakes.m3u
+mtime: 1315809545
+playlist_end
+end: Amorphis/(2010) Forging the Land of Thousand Lakes (live) [flac]/CD 2 [flac]
+playlist_begin: Amorphis - Forging the Land of Thousand Lakes.m3u
+mtime: 1315809479
+playlist_end
+end: Amorphis/(2010) Forging the Land of Thousand Lakes (live) [flac]
+end: Amorphis
+directory: Orphaned Land
+mtime: 1315763944
+begin: Orphaned Land
+directory: 1993 The Beloved's Cry (Demo, 320)
+mtime: 1315763928
+begin: Orphaned Land/1993 The Beloved's Cry (Demo, 320)
+song_begin: 01 - Seasons Unite.mp3
+Time: 503
+Artist: Orphaned Land
+Title: Seasons Unite
+Album: The Beloved's Cry
+Track: 1
+Date: 1993
+Genre: Death/Folk Metal
+mtime: 1315763928
+song_end
+song_begin: 02 - Above You All.mp3
+Time: 296
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: Above You All
+Album: The Beloved's Cry
+Track: 2
+Date: 1993
+Genre: Death/Folk Metal
+mtime: 1315763925
+song_end
+song_begin: 03 - Pits Of Despair.mp3
+Time: 266
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: Pits Of Despair
+Album: The Beloved's Cry
+Track: 3
+Date: 1993
+Genre: Death/Folk Metal
+mtime: 1315763926
+song_end
+song_begin: 04 - The Beloveds Cry.mp3
+Time: 284
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: The Beloveds Cry
+Album: The Beloved's Cry
+Track: 4
+Date: 1993
+Genre: Death/Folk Metal
+mtime: 1315763926
+song_end
+song_begin: 05 - My Requiem.mp3
+Time: 488
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: My Requiem
+Album: The Beloved's Cry
+Track: 5
+Date: 1993
+Genre: Death/Folk Metal
+mtime: 1315763928
+song_end
+song_begin: 06 - The Storm Still Rages Inside.mp3
+Time: 534
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: The Storm Still Rages Inside
+Album: The Beloved's Cry
+Track: 6
+Date: 1993
+Genre: Death/Folk Metal
+mtime: 1315763927
+song_end
+end: Orphaned Land/1993 The Beloved's Cry (Demo, 320)
+directory: 1994 Sahara
+mtime: 1315763946
+begin: Orphaned Land/1994 Sahara
+song_begin: 01 - The Sahara's Storm.mp3
+Time: 479
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: The Sahara's Storm
+Album: Sahara
+Track: 1
+Date: 1994
+Genre: Death/Folk Metal
+mtime: 1315763946
+song_end
+song_begin: 02 - Blessed Be Thy Hate.mp3
+Time: 565
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: Blessed Be Thy Hate
+Album: Sahara
+Track: 2
+Date: 1994
+Genre: Death/Folk Metal
+mtime: 1315763945
+song_end
+song_begin: 03 - Ornaments Of Gold.mp3
+Time: 427
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: Ornaments Of Gold
+Album: Sahara
+Track: 3
+Date: 1994
+Genre: Death/Folk Metal
+mtime: 1315763945
+song_end
+song_begin: 04 - Aldiar Al Mukadisa.mp3
+Time: 177
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: Aldiar Al Mukadisa
+Album: Sahara
+Track: 4
+Date: 1994
+Genre: Death/Folk Metal
+mtime: 1315763944
+song_end
+song_begin: 05 - Seasons Unite.mp3
+Time: 514
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: Seasons Unite
+Album: Sahara
+Track: 5
+Date: 1994
+Genre: Death/Folk Metal
+mtime: 1315763945
+song_end
+song_begin: 06 - The Beloveds Cry.mp3
+Time: 272
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: The Beloveds Cry
+Album: Sahara
+Track: 6
+Date: 1994
+Genre: Death/Folk Metal
+mtime: 1315763945
+song_end
+song_begin: 07 - My Requiem.mp3
+Time: 507
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: My Requiem
+Album: Sahara
+Track: 7
+Date: 1994
+Genre: Death/Folk Metal
+mtime: 1315763946
+song_end
+song_begin: 08 - The Storm Still Rages Inside.mp3
+Time: 550
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: The Storm Still Rages Inside
+Album: Sahara
+Track: 8
+Date: 1994
+Genre: Death/Folk Metal
+mtime: 1315763944
+song_end
+end: Orphaned Land/1994 Sahara
+directory: 1996 El Norra Alila (Full Lenght, 320)
+mtime: 1315763944
+begin: Orphaned Land/1996 El Norra Alila (Full Lenght, 320)
+song_begin: 01 Find Your Self, Discover God.mp3
+Time: 375
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: Find Your Self, Discover God
+Album: El Norra Alila
+Track: 1
+Date: 1996
+Genre: Death/Folk Metal
+mtime: 1315763943
+song_end
+song_begin: 02 Like Fire to Water.mp3
+Time: 286
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: Like Fire to Water
+Album: El Norra Alila
+Track: 2
+Date: 1996
+Genre: Death/Folk Metal
+mtime: 1315763941
+song_end
+song_begin: 03 The Truth Within.mp3
+Time: 274
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: The Truth Within
+Album: El Norra Alila
+Track: 3
+Date: 1996
+Genre: Death/Folk Metal
+mtime: 1315763938
+song_end
+song_begin: 04 The Path Ahead.mp3
+Time: 256
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: The Path Ahead
+Album: El Norra Alila
+Track: 4
+Date: 1996
+Genre: Death/Folk Metal
+mtime: 1315763943
+song_end
+song_begin: 05 A Neverending Way.mp3
+Time: 126
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: A Neverending Way
+Album: El Norra Alila
+Track: 5
+Date: 1996
+Genre: Death/Folk Metal
+mtime: 1315763938
+song_end
+song_begin: 06 Takasim.mp3
+Time: 74
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: Takasim
+Album: El Norra Alila
+Track: 6
+Date: 1996
+Genre: Death/Folk Metal
+mtime: 1315763942
+song_end
+song_begin: 07 Thee by the Father I Pray.mp3
+Time: 192
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: Thee by the Father I Pray
+Album: El Norra Alila
+Track: 7
+Date: 1996
+Genre: Death/Folk Metal
+mtime: 1315763943
+song_end
+song_begin: 08 Flawless Belief.mp3
+Time: 407
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: Flawless Belief
+Album: El Norra Alila
+Track: 8
+Date: 1996
+Genre: Death/Folk Metal
+mtime: 1315763941
+song_end
+song_begin: 09 Joy.mp3
+Time: 43
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: Joy
+Album: El Norra Alila
+Track: 9
+Date: 1996
+Genre: Death/Folk Metal
+mtime: 1315763944
+song_end
+song_begin: 10 Whisper My Name When You Dream.mp3
+Time: 276
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: Whisper My Name When You Dream
+Album: El Norra Alila
+Track: 10
+Date: 1996
+Genre: Death/Folk Metal
+mtime: 1315763941
+song_end
+song_begin: 11 Shir Hama'alot.mp3
+Time: 303
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: Shir Hama'alot
+Album: El Norra Alila
+Track: 11
+Date: 1996
+Genre: Death/Folk Metal
+mtime: 1315763942
+song_end
+song_begin: 12 El Meod Na'ala.mp3
+Time: 143
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: El Meod Na'ala
+Album: El Norra Alila
+Track: 12
+Date: 1996
+Genre: Death/Folk Metal
+mtime: 1315763944
+song_end
+song_begin: 13 Of Temptation Born.mp3
+Time: 282
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: Of Temptation Born
+Album: El Norra Alila
+Track: 13
+Date: 1996
+Genre: Death/Folk Metal
+mtime: 1315763942
+song_end
+song_begin: 14 The Evil Urge.mp3
+Time: 967
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: The Evil Urge
+Album: El Norra Alila
+Track: 14
+Date: 1996
+Genre: Death/Folk Metal
+mtime: 1315763940
+song_end
+song_begin: 15 Shir Hashirim.mp3
+Time: 119
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: Shir Hashirim
+Album: El Norra Alila
+Track: 15
+Date: 1996
+Genre: Death/Folk Metal
+mtime: 1315763939
+song_end
+end: Orphaned Land/1996 El Norra Alila (Full Lenght, 320)
+directory: 2004 The Calm Before the Flood (EP, 256)
+mtime: 1315763930
+begin: Orphaned Land/2004 The Calm Before the Flood (EP, 256)
+song_begin: 01 The Evil Urge.mp3
+Time: 211
+Artist: Orphaned Land
+Title: The Evil Urge
+Album: The Calm Before the Flood
+Track: 1
+Date: 2004
+Genre: Death/Folk Metal
+Composer: Alon Miasnikov/Kobi Farhi/Orphaned Land
+mtime: 1315763930
+song_end
+song_begin: 02 A Never Ending Way.mp3
+Time: 197
+Artist: Orphaned Land
+Title: A Never Ending Way
+Album: The Calm Before the Flood
+Track: 2
+Date: 2004
+Genre: Death/Folk Metal
+Composer: Alon Miasnikov/Kobi Farhi/Orphaned Land
+mtime: 1315763930
+song_end
+song_begin: 03 Mercy (Paradise Lost Cover).mp3
+Time: 229
+Artist: Orphaned Land
+Title: Mercy (Paradise Lost Cover)
+Album: The Calm Before the Flood
+Track: 3
+Date: 2004
+Genre: Death/Folk Metal
+Composer: Gregor MacKintosh/Nick Holmes
+mtime: 1315763929
+song_end
+song_begin: 04 The Beloved's Cry.mp3
+Time: 404
+Artist: Orphaned Land
+Title: The Beloved´s Cry
+Album: The Calm Before the Flood
+Track: 4
+Date: 2004
+Genre: Death/Folk Metal
+Composer: Alon Miasnikov/Kobi Farhi/Orphaned Land
+mtime: 1315763929
+song_end
+song_begin: 05 The Orphaned's Medley.mp3
+Time: 574
+Artist: Orphaned Land
+Title: The Orphaned's Medley
+Album: The Calm Before the Flood
+Track: 5
+Date: 2004
+Genre: Death/Folk Metal
+Composer: Alon Miasnikov/Kobi Farhi/Orphaned Land
+mtime: 1315763930
+song_end
+end: Orphaned Land/2004 The Calm Before the Flood (EP, 256)
+directory: 2005 Mabool - The Story of the Three Sons of Seven (Full Lenght, 320)
+mtime: 1315763938
+begin: Orphaned Land/2005 Mabool - The Story of the Three Sons of Seven (Full Lenght, 320)
+song_begin: 01 Birth of the Three (The Unification).mp3
+Time: 418
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: Birth of the Three (The Unification)
+Album: Mabool - The Story of the Three Sons of Seven
+Track: 1
+Date: 2005
+Genre: Death/Folk Metal
+Composer: Alon Miasnikov/Kobi Farhi/Sami Bachar
+mtime: 1315763931
+song_end
+song_begin: 02 Ocean Land (The Revelation).mp3
+Time: 284
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: Ocean Land (The Revelation)
+Album: Mabool - The Story of the Three Sons of Seven
+Track: 2
+Date: 2005
+Genre: Death/Folk Metal
+Composer: Alon Miasnikov/Eden Rabin/Kobi Farhi/Matti Svatizki/Saharon, Yossi "Sassi"/Uri Zelcha
+mtime: 1315763932
+song_end
+song_begin: 03 The Kiss of Babylon (The Sins).mp3
+Time: 444
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: The Kiss of Babylon (The Sins)
+Album: Mabool - The Story of the Three Sons of Seven
+Track: 3
+Date: 2005
+Genre: Death/Folk Metal
+Composer: Alon Miasnikov/Eden Rabin/Kobi Farhi/Matti Svatizki/Saharon, Yossi "Sassi"/Uri Zelcha
+mtime: 1315763934
+song_end
+song_begin: 04 A'salk.mp3
+Time: 125
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: A'salk
+Album: Mabool - The Story of the Three Sons of Seven
+Track: 4
+Date: 2005
+Genre: Death/Folk Metal
+Composer: Alon Miasnikov/Eden Rabin/Kobi Farhi/Matti Svatizki/Saharon, Yossi "Sassi"/Uri Zelcha
+mtime: 1315763931
+song_end
+song_begin: 05 Halo Dies (The Wrath of God).mp3
+Time: 450
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: Halo Dies (The Wrath of God)
+Album: Mabool - The Story of the Three Sons of Seven
+Track: 5
+Date: 2005
+Genre: Death/Folk Metal
+Composer: Alon Miasnikov/Kobi Farhi/Sami Bachar
+mtime: 1315763937
+song_end
+song_begin: 06 A Call to Awake (The Quest).mp3
+Time: 370
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: A Call to Awake (The Quest)
+Album: Mabool - The Story of the Three Sons of Seven
+Track: 6
+Date: 2005
+Genre: Death/Folk Metal
+Composer: Alon Miasnikov/Kobi Farhi/Sami Bachar
+mtime: 1315763932
+song_end
+song_begin: 07 Building the Ark.mp3
+Time: 302
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: Building the Ark
+Album: Mabool - The Story of the Three Sons of Seven
+Track: 7
+Date: 2005
+Genre: Death/Folk Metal
+Composer: Alon Miasnikov/Eden Rabin/Kobi Farhi/Matti Svatizki/Saharon, Yossi "Sassi"/Uri Zelcha
+mtime: 1315763938
+song_end
+song_begin: 08 Norra el Norra (Entering the Ark).mp3
+Time: 264
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: Norra el Norra (Entering the Ark)
+Album: Mabool - The Story of the Three Sons of Seven
+Track: 8
+Date: 2005
+Genre: Death/Folk Metal
+Composer: Alon Miasnikov/Kobi Farhi/Traditional
+mtime: 1315763937
+song_end
+song_begin: 09 The Calm Before the Flood.mp3
+Time: 265
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: The Calm Before the Flood
+Album: Mabool - The Story of the Three Sons of Seven
+Track: 9
+Date: 2005
+Genre: Death/Folk Metal
+Composer: Alon Miasnikov/Eden Rabin/Kobi Farhi/Matti Svatizki/Saharon, Yossi "Sassi"/Uri Zelcha
+mtime: 1315763933
+song_end
+song_begin: 10 Mabool (The Flood).mp3
+Time: 420
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: Mabool (The Flood)
+Album: Mabool - The Story of the Three Sons of Seven
+Track: 10
+Date: 2005
+Genre: Death/Folk Metal
+Composer: Alon Miasnikov/Eden Rabin/Kobi Farhi/Matti Svatizki/Saharon, Yossi "Sassi"/Uri Zelcha
+mtime: 1315763935
+song_end
+song_begin: 11 The Storm Still Rages Inside.mp3
+Time: 560
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: The Storm Still Rages Inside
+Album: Mabool - The Story of the Three Sons of Seven
+Track: 11
+Date: 2005
+Genre: Death/Folk Metal
+Composer: Alon Miasnikov/Eden Rabin/Kobi Farhi/Matti Svatizki/Saharon, Yossi "Sassi"/Uri Zelcha
+mtime: 1315763934
+song_end
+song_begin: 12 Rainbow (The Resurrection).mp3
+Time: 181
+Artist: Orphaned Land
+AlbumArtist: Orphaned Land
+Title: Rainbow (The Resurrection)
+Album: Mabool - The Story of the Three Sons of Seven
+Track: 12
+Date: 2005
+Genre: Death/Folk Metal
+Composer: Alon Miasnikov/Eden Rabin/Kobi Farhi/Matti Svatizki/Saharon, Yossi "Sassi"/Uri Zelcha
+mtime: 1315763931
+song_end
+end: Orphaned Land/2005 Mabool - The Story of the Three Sons of Seven (Full Lenght, 320)
+end: Orphaned Land
